@@ -1,1 +1,211 @@
-# FoodApp
+{
+  "data": [
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+     "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+     "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+     "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+     "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+     "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+     "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "name": 1,
+      "imageUrl": 1,
+      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    }
+  ]
+}
