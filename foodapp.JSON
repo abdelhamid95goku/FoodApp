@@ -1,211 +1,148 @@
 {
-  "data": [
+  "data":[
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"1",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"2",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"3",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"4",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"4",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"5",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"6",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"7",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"8",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"9",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-     "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"10",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-     "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"11",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"12",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"13",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-     "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"14",
+      "name":"Ladywitharedumbrella",
+      "imageUrl":"https://i.imgur.com/pwpWaWu.jpg",
+      "rating": 3,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     },
     {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-     "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-     "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-     "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
-    },
-    {
-      "name": 1,
-      "imageUrl": 1,
-      "rating": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "deliveryTime": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-      "deliveryCharges": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "price": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      "id":"15",
+      "name":"Ladywithar",
+      "imageUrl":"https://i.imgur.com/QW1Z5G9.jpeg",
+      "rating": 9,
+      "deliveryTime":"20 MIN",
+      "deliveryCharges":"250 DH",
+      "price": "800 DH"
     }
   ]
 }
